@@ -1,0 +1,29 @@
+in real total there was 2200 passenger travelling in titanic as per web source 
+but this data set is missing many crutial values we removed some records to make it easy to analyse
+
+after removing duplicates and missing values
+i made a dashboard and ploted some graphs 
+analysing the dashboard we can find that there where total 1309 passengers 
+and they were divided into 3 classes based on their ticket premium ( I , II , III - CLASS)
+I is the more luxury class 
+
+54% of passengers were travelling in III class ticket
+21% of passengers were travelling in II class ticket
+25% of passengers were travelling in I class ticket   (after removing missing columns)
+
+all 3 class classes combined tickets worth $4350.48 
+
+after accident 809 passenger were dead and 500 survied 
+
+females died = 127
+males died = 339 
+
+this variation was caused because at first only children and women were sent on lifeboats.
+
+I CLASS PASSENGERS DIED = 123
+II CLASS PASSENGERS DIED = 158
+III CLASS PASSENGERS DIED = 528 
+
+THIS DIFFERENCE IS SEEN BECAUSE ELITE PASSENGER WERE GIVEN THE FIRST OPPURTUNITY TO ESCAPE
+
+THESE ARE THE INSIGHTS NOTED BY M. AHAMED SHERIFF 
